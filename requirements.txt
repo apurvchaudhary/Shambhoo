@@ -1,0 +1,5 @@
+certifi==2021.10.8
+elasticsearch==7.16.3
+PyAudio==0.2.11
+SpeechRecognition==3.8.1
+urllib3==1.26.8
